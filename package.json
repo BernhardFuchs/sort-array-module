@@ -1,7 +1,7 @@
 {
-  "name": "npm-module-seed",
-  "version": "1.0.0",
-  "description": "",
+  "name": "sort-array",
+  "version": "0.0.1",
+  "description": "Sorting Array by order and case sensitivity",
   "main": "lib/index.js",
   "types": "lib",
   "scripts": {
@@ -9,7 +9,7 @@
     "test": "jest --passWithNoTests"
   },
   "keywords": [],
-  "author": "",
+  "author": "Bernhard Fuchs",
   "license": "ISC",
   "devDependencies": {
     "@types/jest": "^24.0.15",
