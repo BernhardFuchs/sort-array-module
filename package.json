@@ -1,6 +1,6 @@
 {
   "name": "sort-array-devfox",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Sorting Array by order and case sensitivity",
   "main": "lib/index.js",
   "types": "lib",

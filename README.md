@@ -1,4 +1,4 @@
-# Sort string arrays by devfox
+# Sort string arrays
 
 ## Installation
 
@@ -15,7 +15,7 @@ Possible Options:
 
 Default options are `{ orderBy: "asc", isCaseSensitive: false }`
 
-_Case Sensitivity:_
+**Case Sensitivity:**
 Given an Array `["Za", "ma", "Ba", "aa"]`
 
 - with case sensitive `true` => `["Ba", "Za", "aa", "ma"]`
