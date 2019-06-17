@@ -15,7 +15,7 @@ Possible Options:
 
 Default options are `{ orderBy: "asc", isCaseSensitive: false }`
 
-**Case Sensitivity:**
+**Case Sensitivity:**  
 Given an Array `["Za", "ma", "Ba", "aa"]`
 
 - with case sensitive `true` => `["Ba", "Za", "aa", "ma"]`
